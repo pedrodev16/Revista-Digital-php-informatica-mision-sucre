@@ -7,4 +7,4 @@
 Esta plataforma fue creada con PHP y JavaScript.
 
 ![INFOSUCRE Logo](public/Screenshot_1.png)
-![INFOSUCRE Logo](public/Screenshot_2.png)
+![INFOSUCRE Logo](public/Screenshot_3.png)
