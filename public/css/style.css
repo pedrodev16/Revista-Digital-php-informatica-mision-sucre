@@ -1,0 +1,9 @@
+:root {
+  --nav-bg-color-red: #dc3545ed;
+}
+
+
+.bg-red {
+  background: var(--nav-bg-color-red);
+
+}
